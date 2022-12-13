@@ -1,9 +1,6 @@
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
 import java.lang.Thread;
-import java.util.HashMap;
-import java.util.Map;
-
 import org.junit.jupiter.api.Test;
 
 public class Ex8 {
